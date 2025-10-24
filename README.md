@@ -40,8 +40,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://[URL_DO_SEU_REPOSITORIO_AQUI]
-    cd [NOME_DA_PASTA_DO_PROJETO]
+    git clone https://github.com/otFaria/desafio_api
+    cd desafio_api
     ```
 
 2.  **Instale as dependências do PHP:**
